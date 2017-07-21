@@ -1,1 +1,1 @@
-Because upload size limitation, Please download from url which is listed in README.md
+Because upload size limitation, Please download from https://pan.baidu.com/s/1qYqds76
