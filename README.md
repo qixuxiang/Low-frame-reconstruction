@@ -14,7 +14,7 @@ We have tested the libraries in Windows10 x64 operation system and Microsoft Vis
 The following install tutorials which we provide are only tested in Windows10 X64 OS and Microsoft Visual Studio 2013.
 
 For your convenience, here is the 3rdParty download link:
-
+https://pan.baidu.com/s/1qYqds76
 
 OpenCV2.7.13
 --------------------
