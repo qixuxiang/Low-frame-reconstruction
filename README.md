@@ -55,3 +55,19 @@ it is used to solve sparse matrix. You must install it.
 
 
 
+# 2. Build
+When you finish all of environment configuration, you can use VS2013 to build the whole project. If all goes well, you will can run it.
+
+# 3. Dataset Example
+Due to the size limitation, please download all of dataset from the link:
+
+It 
+
+
+# 4. Attention
+Since the original project is 32-bits, you should notice the memory limitation. After we tested, if you want to reconstruct more than 1100 images, the program will crash because it will use >1.5GB memory. 
+
+One solution is modeify VS2013 solution's properities. Find Link->System->Enable Large Addresses, and set it to Yes. Rebuild it and then you may can run it without any exception. However, if you expect your memeory usage will more than 2GB or 3GB, the large addresses may not solve the memeory problem. Please build x64 program.
+
+
+
